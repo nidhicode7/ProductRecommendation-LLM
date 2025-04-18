@@ -1,0 +1,6 @@
+streamlit
+pymysql
+langchain
+langchain_community
+python-dotenv
+pandas
